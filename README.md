@@ -2,8 +2,8 @@
 
 [文档地址](http://wechat.zjrcsy.cn/)
 
-## 技术： 基于 B/S 架构 SpringBoot+MySQL+Layui+vue  
-## 环境： Idea mysql maven jdk1.8  node
+### 技术： 基于 B/S 架构 SpringBoot+MySQL+Layui+vue  
+### 环境： Idea mysql maven jdk1.8  node
 
 ## 管理端功能
 管理端主要用于对系统内的各类旅游资源进行管理，包括用户信息、旅游路线、车票、景点、酒店、美食、论坛等内容。具体功能如下：
