@@ -1,5 +1,7 @@
 # 24-智慧旅游系统(协同过滤算法)
 
+[文档地址](http://wechat.zjrcsy.cn/)
+
 ## 技术： 基于 B/S 架构 SpringBoot+MySQL+Layui+vue  
 ## 环境： Idea mysql maven jdk1.8  node
 
@@ -72,6 +74,8 @@
 ![15](https://yunzhuceshi.oss-cn-beijing.aliyuncs.com/typoraImg/15.png)
 ![16](https://yunzhuceshi.oss-cn-beijing.aliyuncs.com/typoraImg/16.png)
 
+
+[文档地址](http://wechat.zjrcsy.cn/)
 
 #### xv:  MaKaBaca0
 
